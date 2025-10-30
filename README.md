@@ -1,4 +1,4 @@
-# HVCI (Memory Integrity) — AD Fleet Scanner
+# HVCI (Memory Integrity)
 
 > **Script goal:** Scan a set of Windows machines (from AD or a given list) for **HVCI / Memory Integrity readiness** using a provided scanner executable/script.  
 > **Engines:** PowerShell 7 ⇒ parallel (`ForEach-Object -Parallel`); PowerShell 5 ⇒ jobs.  
