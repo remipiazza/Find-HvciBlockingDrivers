@@ -179,4 +179,4 @@ $rows | Where-Object { $_.HvciPassed -eq 'False' } |
 
 ## ⚖️ License
 
-This documentation can be used freely with your script. If you plan to publish, consider adding a license (e.g., MIT) to your repository.
+[MIT](LICENSE)
